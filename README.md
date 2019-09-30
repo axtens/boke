@@ -1,7 +1,7 @@
-bole
+boke
 ====
 
-Bruce's Own scriptable mLite Editor
+Bruce's Own scriptable [Klong](https://www.t3x.org/klong/index.html) Editor
 
 written in B4J. MIT License.
 
@@ -43,8 +43,8 @@ See https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextArea.ht
 
 Execute jar as 
 
-	javaw -jar BOLE.jar
-	
+	javaw -jar BOKE.jar
+
 If anyone runs it in Mac OS X, please let me know how it performs (if it does at all.)
 
-The menus are strangely reordered under Linux.
+The menus are strangely reordered under Linux (or were back in 2014)
